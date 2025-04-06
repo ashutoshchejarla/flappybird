@@ -1,5 +1,7 @@
 #FLAPPY BIRD!
+
 ![tenor](https://github.com/user-attachments/assets/d8eb3aba-8bf5-4c1a-85fb-ab48160ad050)
+
 This is a clone of the original game 'Flappy Bird' made in [Scratch](https://scratch.mit.edu)
 ##How is it made???
 1) I first created the game in Scratch

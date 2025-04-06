@@ -9,3 +9,5 @@ This is a clone of the original game 'Flappy Bird' made in [Scratch](https://scr
 3) i downloaded the zip file.
 4) then uploaded onto github enabling me to use [Github Pages](https://pages.github.com/)
 5) and that's how i make games (currently as of 2025 april)
+
+# [**LINK TO THE ORIGINAL PROJECT** \/\/\/\/\/](https://scratch.mit.edu/projects/1157456461/)
